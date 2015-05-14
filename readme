@@ -1,0 +1,12 @@
+The purpose of this repository is to give code examples to connect to FreedomPay's HPP
+
+HPP works by initiating a REST call and recieving back a URL and GUID.  The consumer than
+redirects the user to the URL in the response message, and stores the GUID for transaction 
+tracking
+
+Examples:
+- Ruby
+- Python
+- VB.net
+- C#.net 
+- Java
